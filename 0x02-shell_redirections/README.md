@@ -1,1 +1,1 @@
-Write a shell script that creates a file named exactly
+8. Save current state of directory
